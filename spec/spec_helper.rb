@@ -1,3 +1,4 @@
+#needed for this to communicate among files
 require_relative "../lib/artist.rb"
 require_relative "../lib/song.rb"
 require_relative "../lib/author.rb"
